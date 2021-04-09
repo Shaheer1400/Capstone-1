@@ -10,4 +10,4 @@ United Airlines is the world’s largest commercial airline by destinations serv
 - Employee Data and Analysis
 
 
-![Aircraft Operating Statistics](https://github.com/Shaheer1400/Capstone-1/blob/master/images/Aircraft_Operating_Statistics.png?raw=true)
+![Aircraft Operating Statistics](https://github.com/Shaheer1400/Capstone-1/images/Aircraft_Operating_Statistics.png)
