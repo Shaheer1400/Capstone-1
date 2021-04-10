@@ -1,8 +1,11 @@
 ## **The Airline Industry and the Economy - Timely Effects of United Airlines General Operations**
 Capstone 1 - Shaheer Khan
 
+\
+<br>
+
 ## Overview
-United Airlines is the world’s largest commercial airline by destinations served.  The airline industry can often provide insights to the domestic economy, demonstrating trends in consumer spending and emotional behavior.  Using data-sets acquired from data.world, I was able to parse topics of interest residing in the following tables:
+United Airlines is the world’s largest commercial airline by destinations served.  The airline industry can often provide insights to the domestic economy, demonstrating trends in consumer spending and emotional behavior.  Using data-sets acquired from data.world, I was able to parse topics of interest residing in the following tables using Pandas DataFrames and SQL Queries:
 
 - **Traffic & Capacity**
 - Airline Operating Statistics
@@ -16,33 +19,47 @@ United Airlines is the world’s largest commercial airline by destinations serv
 
 \
 <br>
-## Average View Count per Country
+
+## Revenue
 
 ![Sum of Total Revenue for Domestic Operations](./images/Sum_revenue.png)
 - 5 year effects period due to 9/11
 - 2008 recession alongside swine flu
 - Growth proceeding 2008 recession
 - Boom in air travel
-\
-\
-\
+
 \
 <br>
 <!--![Cleaned up](./images/Pilot_avg.png)--> 
 
-
+## Employee
 ![Average Sum of Pilot Training](./images/pilot_training.png)
 - Employee growth did not receive same effects
 - Focus was greater towards governmental security
 - Fraction of new hires
-- Airlines allegedly pocketed savings
-\
-\
-\
+- Airlines pocketed savings
+
 \
 <br>
+
+## Combined
+![Average Sum of Pilot Training](./images/total_figure.png)
+- Pilot Training possesses a lag effect
+- Pilot training never reached pre 9/11 levels
+- Airline took advantage of bailouts
+
+\
+<br>
+
+## Ratio Analysis
+![Average Sum of Pilot Training](./images/Ratio.png)
+- Revenue boom not met with same investment in pilot training
+- Validity of Comparision
+
+\
+<br>
+
 ## Further Analysis
 
-- How did jet fuel costs affect ticket costs, and in turn total revenue?
-- How can the history of further economy details be used to gauge industry volatility?
-- Visualizing effects of switching to jet engines from turboprops.
+- How can projections of future economy details be used to gauge industry volatility?
+- Visualizing effects of switching from turboprops to jet engines.
