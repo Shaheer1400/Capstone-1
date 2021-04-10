@@ -35,7 +35,7 @@ United Airlines is the world’s largest commercial airline by destinations serv
 ## Employee
 ![Average Sum of Pilot Training](./images/pilot_training.png)
 - Employee growth did not receive same effects
-- Focus was greater towards governmental security
+- Greater focus towards governmental security?
 - Fraction of new hires
 - Airlines pocketed savings
 
@@ -46,7 +46,8 @@ United Airlines is the world’s largest commercial airline by destinations serv
 ![Average Sum of Pilot Training](./images/total_figure.png)
 - Pilot Training possesses a lag effect
 - Pilot training never reached pre 9/11 levels
-- Airline took advantage of bailouts
+- Airline savings?
+
 
 \
 <br>
@@ -54,7 +55,10 @@ United Airlines is the world’s largest commercial airline by destinations serv
 ## Ratio Analysis
 ![Average Sum of Pilot Training](./images/Ratio.png)
 - Revenue boom not met with same investment in pilot training
-- Validity of Comparision
+- Golden age of air travel
+- Enticing shareholders
+- Validity of Comparison
+
 
 \
 <br>
